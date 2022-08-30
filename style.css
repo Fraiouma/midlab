@@ -1,0 +1,30 @@
+@media
+{
+    h1{
+        text-transform: capitalize;
+    }
+    
+}
+
+@media
+{
+    h3{
+        text-align: center;
+    }
+    p.center{
+        text-align:center;
+    }
+    h6
+}
+
+@media
+{
+    p.center1{
+        text-decoration: white;
+        text-align: center;
+    }
+}
+
+.navbar a{
+    color: white;
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+</head>
+<body>
+    
+    <!-- First column starts -->
+    
+    <section class="container-lg">
+        <div class="row">
+
+            <!-- First column starts -->
+                <div class="col-sm-12 col-md-8 col-lg-6">
+                    <h2>Lorem, ipsum dolor.</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptate tenetur nesciunt nulla odio explicabo mollitia perferendis sed nihil pariatur a animi veritatis nobis consequatur facilis, molestias sit praesentium veniam adipisci! Tempora, reprehenderit blanditiis tempore eveniet quia quis voluptate? Quaerat deleniti quia sunt excepturi nisi voluptatum sapiente quidem esse nesciunt pariatur ad eligendi eaque, repellendus iure unde architecto. Velit quod non illo pariatur iure inventore voluptates ea optio suscipit facilis at consequatur incidunt quibusdam est commodi ullam atque laborum, dicta alias veritatis voluptas itaque architecto! Recusandae architecto nemo asperiores maiores voluptatum voluptatibus odio est, soluta consequuntur porro, harum quae quasi.
+                    </p>
+                </div>
+            <!-- First column ends -->
+
+            <!-- Second column starts -->
+                <div class="col-sm-12 col-md-4 col-lg-6">
+                    <h1>Lorem, ipsum dolor.</h1>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis animi temporibus ab suscipit deleniti saepe quae tempore cupiditate quo aperiam maiores explicabo in dolores distinctio eius ipsum, tenetur qui enim doloribus. Enim id a officiis laboriosam facere omnis cumque non repellendus laudantium harum facilis perferendis earum, consectetur obcaecati error et? Libero, esse voluptate ullam tempora qui dicta dolores corrupti delectus porro vel dolorem nisi nam minima quidem labore nulla fugiat nemo commodi harum, itaque sequi, ipsum asperiores! Corrupti saepe vitae, iure, maxime magni facilis at earum nam atque debitis esse, dolore dolor repellat delectus voluptas ratione recusandae voluptatum rerum assumenda!
+                    </p>
+                </div>
+            <!-- Second column ends -->
+
+        </div>
+    </section>
+    
+    <!-- First column ends -->
+
+    <!-- Second comment section starts -->
+    
+    <section class="container">
+        <div class="row">
+            <!-- First coulmn starts -->
+            <div class="col-sm-12 col-md-6 col-lg-8">
+            <h3>Lorem, ipsum dolor.</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam voluptatem quibusdam aut excepturi atque quae voluptatum nesciunt magnam earum? Consequuntur aspernatur facere mollitia, hic atque quas similique incidunt? Ab, eaque minus incidunt dolor magni illum a voluptate quidem nihil, doloremque rem reprehenderit dolores praesentium mollitia, eius ratione libero soluta. Nostrum voluptatum asperiores eligendi iure dicta itaque nulla odio, earum excepturi impedit repudiandae, modi laboriosam totam! Rem voluptates iure quidem cumque laborum cum ut, aut nobis omnis id fuga mollitia laboriosam nulla, excepturi enim ipsum totam quibusdam? Laudantium magni hic harum aperiam accusamus corrupti mollitia quo odit! Maiores dolore alias non?
+            </p>
+        </div>
+            <!-- First column ends -->
+
+            <!-- Second column starts -->
+            <div class="col-sm-12 col-md-6 col-lg-4"></div>
+            <img src="./time.jfif" 
+                alt="Placeholder image"
+                class="img-fluid">
+            <!-- Second column ends -->
+        </div>
+    </section>
+
+    <!-- Second comment section ends -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+</body>
+</html>

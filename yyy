@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+</head>
+<body>
+
+   
+    <section class="container-fluid">
+        <div class="row">
+             <!-- First comment section starts -->
+
+            <div class="col-sm-12 col-md-6 col-lg-8">
+            <img src="./time.jfif"  
+                alt="main image"
+                class="img-fluid">
+            
+            </div>
+
+                <!-- Second column starts -->
+                <div class="col-sm-12 col-md-6 col-lg-4">
+                    <h1><b>What we offer</b></h1>
+
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem, error iusto numquam provident quod nemo consequuntur ea non laudantium quia eligendi delectus tempore quasi harum. Quia ex accusantium ullam quidem, quae sint expedita tempore magnam a ratione facilis quo sapiente eum nostrum architecto corporis quos.</p>
+                
+                 </div>
+                <!-- Second column ends -->
+                </div>
+            </section>
+           
+        <!-- First comment section ends -->
+        </div>
+    </section>
+
+
+    <section class="container">
+        <div class="row">
+
+    <!-- Second comment section starts -->
+
+
+        <!-- First column starts -->
+
+        <!-- First column ends -->
+
+        <!-- Second column starts -->
+
+        <!-- Second column ends -->
+
+        <!-- Third column starts -->
+
+        <!-- Third column ends -->
+
+        <!-- Fourth column starts -->
+
+        <!-- Fourth column ends -->
+
+        <!-- Fifth column starts -->
+
+        <!-- Fifth column ends -->
+    
+    </section>
+</div>
+
+
+
+    <!-- Call to action section starts -->
+    <section class="container-fluid bg-dark text-center fs-2 py-5">
+        <p class="fw-bold text-white">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, assumenda, soluta alias molestias officia illo quia ullam aliquid est incidunt totam pariatur repudiandae sit laudantium aliquam, animi tempora tempore? Sequi esse deleniti distinctio asperiores nobis minus corrupti voluptatem cum quibusdam similique obcaecati sit hic rem odio, optio magni error consequuntur praesentium? Cupiditate assumenda laudantium est error voluptatibus voluptatem perferendis magni, vitae quod eum quam. Nulla, delectus! Minus esse voluptatum voluptas aperiam? Asperiores officia est et voluptatum itaque tempore magni eveniet perspiciatis doloribus, sit animi ipsam deserunt, adipisci dolores quia reprehenderit enim soluta nihil quaerat! Consequatur odio sunt eaque illo quisquam?
+        </p>
+        <button class="btn btn-outline-info">Read More</button>
+    </section>
+    <!-- Call to action section ends -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+</body>
+</html>

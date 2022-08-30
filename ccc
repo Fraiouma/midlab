@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="div-container">
+        <div class="header">
+            <h3>css media query</h3>
+        </div>
+        <div id="sidebar">
+            <h4>The First Media Query</h4>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet reiciendis eum itaque voluptatum obcaecati eaque ratione magni? Pariatur deleniti facilis illo quibusdam non veritatis quae suscipit necessitatibus vel architecto, aperiam minus, numquam culpa aliquid quaerat. Fugiat amet nam, maiores nemo, blanditiis dolorem provident voluptate quisquam cupiditate, inventore error debitis. Asperiores quo aliquid exercitationem ad quaerat iste similique atque accusantium nostrum esse nesciunt eveniet soluta adipisci rem accusamus quod ut veniam, ea nisi delectus distinctio odit, minima deleniti totam? Repudiandae aliquam libero distinctio, autem ipsum dolorum placeat quasi, id nam dignissimos quisquam velit rerum quo provident molestiae perspiciatis? Corporis aliquid sed impedit? Adipisci veniam temporibus dicta, debitis nemo non. Reprehenderit dolores consequuntur hic nemo labore cumque quos deleniti. Atque quia delectus dolores nesciunt illo voluptas quis, aut tempora, explicabo voluptate debitis fuga? Unde cumque ipsam fugit quibusdam autem consequuntur inventore quam dignissimos libero rem quasi similique fugiat, vitae repellat! Alias quos quod eligendi repudiandae consequatur officiis cupiditate quas quo autem perspiciatis itaque, beatae vel sequi illo magnam nemo nulla quidem minus error nam ipsum facilis! Possimus dignissimos id suscipit dolorum neque corrupti cum amet, molestiae, veritatis earum odit animi expedita temporibus pariatur optio debitis exercitationem esse ipsa dolores magni perferendis sed!
+            </p>
+        </div>
+    </div>
+</body>
+</html>

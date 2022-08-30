@@ -1,0 +1,26 @@
+<div class="card" style="width: 18rem;">
+                <img src="./paris-lopez-YQ-uK5SAJrA-unsplash.jpg" class="card-img-top" alt="first image">
+                <div class="card-body">
+                  <h5 class="card-title">Lorem ipsum dolor sit amet.</h5>
+                  <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias ipsam quisquam, atque accusamus nulla dolor voluptas eum harum animi quaerat beatae eaque mollitia vel sunt dicta tempora?</p>
+                  <a href="y" class="btn btn-info">Register</a>
+                </div>
+              </div>
+
+              <div class="card" style="width: 18rem;">
+                <img src="./hennie-stander-5yQbJj68b_s-unsplash.jpg" class="card-img-top" alt="second image">
+                <div class="card-body">
+                  <h5 class="card-title">Lorem ipsum dolor sit amet.</h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet. ipsum dolor sit amet, consectetur adipisicing elit. Illo mollitia dignissimos iste dicta, harum, non suscipit fugit fugiat magnam maiores optio corrupti, in atque possimus placeat!</p>
+                  <a href="#" class="btn btn-outline-info">Register</a>
+                </div>
+              </div>
+
+              <div class="card" style="width: 18rem;">
+                <img src="./wayne-lee-sing-zYZZf6ZSEwI-unsplash.jpg" class="card-img-top" alt="third image">
+                <div class="card-body">
+                  <h5 class="card-title">Lorem ipsum dolor sit amet.</h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam amet ut vitae ullam ab laudantium sed sint maxime, id itaque rerum sit doloribus soluta officia dolorum dolor delectus. Tenetur.</p>
+                  <a href="u" class="btn btn-info">Register</a>
+                </div>
+              </div>
